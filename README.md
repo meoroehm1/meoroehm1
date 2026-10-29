@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there my name is Meo
+## I am a student and currently learning about GitHub
 
 <!--
 **meoroehm1/meoroehm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
